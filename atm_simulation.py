@@ -121,7 +121,7 @@ def change_password():
 user = ['mohan', 'vinay', 'vishnu', 'diwakar', 'naresh']
 password = ['m11', 'v05', 'v06', 'd00', 'n06']
 pin = [1121, 1122, 1221, 1201, 1111]
-bal = [10000, 12112, 212122, 20000, 200000]
+bal = [10000, 12112, 212122, 200000, 200000]
 
 print("Welcome to ATM")
 us = input("Enter the Username: ")
